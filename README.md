@@ -22,7 +22,7 @@ A C-based command-line utility that generates a procedural ASCII star shape. The
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/star-generator.git
+   git clone [https://github.com/yourusername/star-generator.git](https://github.com/rahawii/star-generator.git)
    cd star-generator
    make
    ./star <size_number>
